@@ -1,0 +1,45 @@
+
+.sidebar-border-right {
+    border-right: 1px solid black; /* Adjust the border style and color as per your preference */
+  }
+  
+
+
+li{
+   
+    margin-left: -26%;
+    padding: 8%;
+    text-align: center;
+    font-size: 100%;
+    margin-bottom: 5%;
+    cursor: pointer;
+}
+li:hover{
+    background-color: rgba(0, 0, 255, 0.304);
+}
+li:active{
+    background-color: grey;
+}
+
+i{
+    font-size:18px;
+    
+    margin-right: 2%;
+    
+}
+.icon{
+    font-size:30px;
+   
+}
+
+.sidebar {
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: lawngreen;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+  }
+  
+  
